@@ -20,3 +20,6 @@
 2. Redmi Note 8 (GINKGO)
 3. Redmi Note 7 (LAVENDER)
 <hr/>
+
+# Support
+[![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
