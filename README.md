@@ -23,7 +23,9 @@
 
 # Support
 [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
+<hr/>
 
+if you give me coffee happily :)
 
-### if you give me coffee happily :)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
