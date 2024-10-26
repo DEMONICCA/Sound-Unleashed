@@ -25,5 +25,5 @@
 [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 
 
-### jika Anda memberi saya kopi dengan senang hati ;)
+### if you give me coffee happily :)
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
