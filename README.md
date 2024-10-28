@@ -5,7 +5,7 @@
 
 # Installation
 1. Open Magisk Manager Recommend [Kitsune](https://github.com/HuskyDG/magisk-files/releases)
-2. Install module [Disable warning volume](https://ouo.io/msRSdV8)
+2. Install module [Disable warning volume](https://moneyblink.com/KCzxF)
 3. Reboot
 <hr/>
 
