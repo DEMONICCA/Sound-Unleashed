@@ -154,7 +154,7 @@ mount_mirrors() {
 $KSU && { [ $KSU_VER_CODE -lt 11184 ] && require_new_ksu; }
 
 # Start debug
-set -x
+$DEBUG && set -x || set +x
 
 # Set variables
 [ -z $ARCH32 ] && ARCH32="$(echo $ABI32 | cut -c-3)"
