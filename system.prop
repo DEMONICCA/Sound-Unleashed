@@ -11,5 +11,5 @@
 # BATAS SUCI :V
 ##########################################################################################
 
-# DISABLE WARNING VOLUME HIGH 
+# Disable Warning Volume High
 audio.safemedia.bypass=true
