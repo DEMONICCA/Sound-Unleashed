@@ -1,7 +1,7 @@
 id=DWV
 name=Disable Warning Volume
-version=V1-STABLE
-versionCode=1
+version=v1.5.0
+versionCode=2
 author=ILLUMI
 description=To disable volume alerts on Android devices.
 support=https://trakteer.id/demonica/tip
