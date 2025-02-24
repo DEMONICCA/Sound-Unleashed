@@ -1,8 +1,8 @@
-id=DWV
-name=Disable Warning Volume
-version=v1.5.0
-versionCode=2
+id=UNLEASHED
+name=Sound Unleashed
+version=1.0.0
+versionCode=1
 author=@illumi
-description=To disable volume alerts on Android devices.
+description=Sound Unleashed unleashes your device's audio potential by safely removing volume restrictions, delivering consistent and maximized sound performance on every reboot.
 support=https://trakteer.id/demonica/tip
 donate=https://www.paypal.com/paypalme/faniadittiya
