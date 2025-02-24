@@ -3,7 +3,6 @@
 > [!NOTE]
 > Description 📝:
 > - Sound Unleashed unleashes the audio potential of your device by removing safe media volume restrictions and ensuring that the maximum volume is applied consistently every time you boot.
-> - This module makes direct modifications to the `build.prop` file to effect permanent changes.
 <hr/>
 
 > [!IMPORTANT]
@@ -26,7 +25,6 @@
 > - This module is used at your own risk. The developer is not responsible for any damage that may result from the installation or use of this module.
 > - This module changes sensitive system settings. Make sure you understand the changes made before installing it.
 > - Use this module at your own risk. Misconfiguration may cause problems such as bootloop or system instability.
-> - Modifying the `build.prop` file is sensitive and risky, especially on devices with protected system partitions. Make sure your device supports mounting `/system` as read-write.
 > - Make sure you have access to recovery mode (TWRP/ADB) before installing this module, just in case something goes wrong.
 <hr/>
 
