@@ -1,4 +1,4 @@
-> ![Image](https://github.com/user-attachments/assets/a2413521-9afb-4ccc-82b4-b3f1993b0663)
+> ![Image](https://github.com/user-attachments/assets/843c90fb-daf2-4206-ad3d-0f486c8917c3)
 
 > [!NOTE]
 > Description 📝:
@@ -10,6 +10,10 @@
 > 1. Bypass Safe Media Volume. ✔️
 > 2. Deactivate Safe Media Volume. ✔️
 > 3. Maximum Media Volume Set. ✔️
+> 4. Audio High Resolution. ✔️
+> 5. Deep Buffer & Low Latency. ✔️
+> 6. Reset Properti Dinamis. ✔️
+> 7. And many more. ✔️
 <hr/>
 
 > [!TIP]
@@ -18,6 +22,12 @@
 > 2. Download [Module](https://t.me/modulkuntul)
 > 3. Installation via Magisk/KSU/Apatch Manager
 > 4. Reboot the device after the installation is complete.
+<hr/>
+
+> [!WARNING]
+> Disclaimers 🛡️:
+> - This module is provided "as is" without warranty. Use of this module is at your own risk. Make sure to back up original data and configuration before installation. The author is not responsible for any damage or problems that may arise.
+> - Some properties may not work or may be implemented differently on different versions of Android. Always check compatibility with your device.
 <hr/>
 
 > [!CAUTION]
